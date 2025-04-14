@@ -1,6 +1,6 @@
 #[cfg(test)]
 mod tests {
-    use crate::{check_lines, check_squares};
+        use crate::{check_lines, check_squares};
 
     #[test]
     fn check_lines_test() {
